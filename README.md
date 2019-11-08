@@ -1,5 +1,5 @@
-| 		Artefato      |   Responsável   |   Branch|
-| --- | --- |
+| 		Artefato      |   Responsável   |   Branch |
+| --- | --- | --- |
 | Requisito | José Rafael | Master |
 | Backend | Daniel | Backend |
 | Frontend | Matheus | Frontend |
