@@ -1,9 +1,9 @@
-| 		Artefato      |   Responsável   |
+| 		Artefato      |   Responsável   |   Branch|
 | --- | --- |
-| Requisito 		  | José Rafael		|
-| Backend			  | Daniel			|
-| Frontend			  | Matheus			|
-| Modelos			  | José Rafael		|
-| Casos de teste	  |	Mateus			|
-| Relatórios de teste | Mateus			|
-| Release Notes		  | Daniel			|
+| Requisito | José Rafael | Master |
+| Backend | Daniel | Backend |
+| Frontend | Matheus | Frontend |
+| Modelos | José Rafael | Develop |
+| Casos de teste | Mateus | Test |
+| Relatórios de teste | Mateus | Test |
+| Release Notes	| Daniel | Develop |
